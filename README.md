@@ -1,2 +1,2 @@
 # todo-today
-Following a tutorial to learn SvelteKit! A TODO list application
+Following a tutorial to learn SvelteKit and Tailwind CSS! A TODO list application
